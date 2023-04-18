@@ -1,7 +1,7 @@
 # M2_generative_hopfield_network
 Hopfield Networks and Modified Variants
 
-This repository contains Python code for Hopfield networks and their modified variants, including rHN_0, rHN_S, and rHN_G. These networks are described in the paper "Optimization in 'Self-Modeling' Complex Adaptive Systems" by Richard A. Watson, C. L. Buckley, and Rob Mills.
+This repository contains Python code for Hopfield networks and their modified variants, including rHN_0, rHN_S, and rHN_G. These networks are described in the paper "Transformations in the scale of behavior and the global optimization of constraints in adaptive networks" by Richard A. Watson, C. L. Buckley, and Rob Mills.
 
 Overview
 This repository includes four Python scripts:
