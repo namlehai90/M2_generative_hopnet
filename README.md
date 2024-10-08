@@ -28,7 +28,7 @@ To run the simulations, simply run the corresponding Python scripts in a termina
 The output of the scripts will be printed to the console and/or saved to files in the results folder.
 
 Acknowledgements
-The code in this repository was created and is being updated by [Your Name] as part of [Your Project Name] at [Your Institution] with [Your Professor's Name].
+The code in this repository was created and is being updated by Nam Hai Le, senior research fellow at the University of Southampton
 
 The code is intended for researchers and enthusiasts in the field of complex adaptive systems and provides a simple and easily understandable implementation of Hopfield networks and their modified variants. The project is ongoing and may be updated in the future to include additional experiments or improvements to the existing code.
 
